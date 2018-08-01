@@ -1,0 +1,14 @@
+Kevin Smeeks
+TEST 1: A
+TEST 2: B
+TEST 3: A
+AVERAGE: 92.67 A
+
+
+Test Person
+TEST 1: B
+TEST 2: F
+TEST 3: C
+AVERAGE: 73.67 C
+
+
